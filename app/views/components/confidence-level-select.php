@@ -1,0 +1,12 @@
+<option value="50">Confidence Level</option>
+<option value="70">70%</option>
+<option value="75">75%</option>
+<option value="80">80%</option>
+<option value="85">85%</option>
+<option value="90">90%</option>
+<option value="95">95%</option>
+<option value="98">98%</option>
+<option value="99">99%</option>
+<option value="99.9">99.9%</option>
+<option value="99.99">99.99%</option>
+<option value="99.999">99.999%</option>
